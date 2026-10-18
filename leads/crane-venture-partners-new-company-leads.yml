@@ -1,0 +1,494 @@
+generated: '2026-10-18'
+method: derived
+source_vc: crane-venture-partners
+leads:
+- name: Raito
+  url: ''
+  suggested_slug: raito
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Ona
+  url: https://ona.com/
+  suggested_slug: ona
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: SeeChange
+  url: https://seechange.com/
+  suggested_slug: seechange
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: NyraHealth
+  url: https://www.nyra.health/en-us
+  suggested_slug: nyrahealth
+  sector: ai-automation,health-bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Xund
+  url: https://xund.ai/
+  suggested_slug: xund
+  sector: ai-automation,health-bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Foundries.io
+  url: https://www.foundries.io/
+  suggested_slug: foundriesio
+  sector: ai-automation,deep-tech-hard-science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: 7bridges
+  url: https://www.the7bridges.com/
+  suggested_slug: 7bridges
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Stratio
+  url: https://stratioautomotive.com/
+  suggested_slug: stratio
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Virtuoso QA
+  url: https://www.virtuosoqa.com/
+  suggested_slug: virtuoso-qa
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Shipamax
+  url: ''
+  suggested_slug: shipamax
+  sector: ai-automation,enterprise-productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Qritive
+  url: https://www.qritive.com/
+  suggested_slug: qritive
+  sector: ai-automation,health-bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Sandgarden
+  url: https://www.sandgarden.com/
+  suggested_slug: sandgarden
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Bitpart.ai
+  url: https://www.bitpart.ai/
+  suggested_slug: bitpartai
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: ConfigHub
+  url: https://www.confighub.com/
+  suggested_slug: confighub
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Quaisr
+  url: https://www.quaisr.com/
+  suggested_slug: quaisr
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Qapita
+  url: https://www.qapita.com/
+  suggested_slug: qapita
+  sector: data-infrastructure,financial-systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Milieu
+  url: https://www.mili.eu/sg
+  suggested_slug: milieu
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Timeseer.ai
+  url: https://www.timeseer.ai/
+  suggested_slug: timeseerai
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: OpenSensors
+  url: https://opensensors.com/
+  suggested_slug: opensensors
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: DePoly
+  url: https://www.depoly.co/
+  suggested_slug: depoly
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: H2Site
+  url: https://h2site.eu/
+  suggested_slug: h2site
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: PQShield
+  url: https://pqshield.com/
+  suggested_slug: pqshield
+  sector: deep-tech-hard-science,security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Privyr
+  url: https://www.privyr.com/
+  suggested_slug: privyr
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Lune
+  url: https://lune.co/
+  suggested_slug: lune
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Next Matter
+  url: https://www.nextmatter.com/
+  suggested_slug: next-matter
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Re:infer
+  url: ''
+  suggested_slug: re-infer
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Satchel
+  url: https://www.teamsatchel.com/
+  suggested_slug: satchel
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Edufund
+  url: https://www.edufund.in/
+  suggested_slug: edufund
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: IMMIX
+  url: https://immix.xyz/
+  suggested_slug: immix
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Tuio
+  url: https://app.tuio.com/welcome
+  suggested_slug: tuio
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Fence
+  url: https://fence.finance/
+  suggested_slug: fence
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: BondBloX
+  url: https://bondblox.com/
+  suggested_slug: bondblox
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Accelex
+  url: ''
+  suggested_slug: accelex
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Centrifuge
+  url: https://centrifuge.io/
+  suggested_slug: centrifuge
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: CoMind
+  url: https://www.comind.io/
+  suggested_slug: comind
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Bioraptor
+  url: https://www.bioraptor.ai/
+  suggested_slug: bioraptor
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: HelloBetter
+  url: https://hellobetter.de/en/
+  suggested_slug: hellobetter
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Daye
+  url: https://www.yourdaye.com/
+  suggested_slug: daye
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Oncoshot
+  url: https://www.oncoshot.com/
+  suggested_slug: oncoshot
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: HarfangLab
+  url: https://harfanglab.io/
+  suggested_slug: harfanglab
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Microsec
+  url: https://www.microsec.io/
+  suggested_slug: microsec
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: CloudSek
+  url: https://www.cloudsek.com/
+  suggested_slug: cloudsek
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Icite
+  url: https://icite.io/
+  suggested_slug: icite
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: SenseOn
+  url: https://www.senseon.io/
+  suggested_slug: senseon
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Added Health
+  url: https://www.addedhealth.com/
+  suggested_slug: added-health
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Atomic Tessellator
+  url: https://atomictessellator.com/
+  suggested_slug: atomic-tessellator
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Chiral
+  url: https://www.chiralnano.com/
+  suggested_slug: chiral
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: CloseDay
+  url: https://www.closeday.com/
+  suggested_slug: closeday
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Hacktron
+  url: https://www.hacktron.ai/
+  suggested_slug: hacktron
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Imagine Health
+  url: https://imaginehealth.ai/
+  suggested_slug: imagine-health
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Pometry
+  url: https://www.pometry.com/
+  suggested_slug: pometry
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Skydda
+  url: https://skydda.ai/
+  suggested_slug: skydda
+  sector: Security
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Stepsize
+  url: https://stepsize.com/
+  suggested_slug: stepsize
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Nullspace
+  url: https://ns.rocks
+  suggested_slug: nullspace
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Phone Inc
+  url: https://www.phone.inc/
+  suggested_slug: phone-inc
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Prefrontal
+  url: https://prefrontal.ai/
+  suggested_slug: prefrontal
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Metal Gear
+  url: https://metalgear.xyz/
+  suggested_slug: metal-gear
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Gridfield
+  url: https://gridfield.co/
+  suggested_slug: gridfield
+  sector: AI & Automation
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Sugarfit
+  url: https://sugarfit.com
+  suggested_slug: sugarfit
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Armatrix
+  url: https://armatrix.com/
+  suggested_slug: armatrix
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Cosyne
+  url: https://www.cosyne.com/
+  suggested_slug: cosyne
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: ePlane
+  url: https://www.eplane.ai/
+  suggested_slug: eplane
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Johnaic
+  url: https://johnaic.com/
+  suggested_slug: johnaic
+  sector: Data Infrastructure
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Kalki
+  url: https://getkalki.com/
+  suggested_slug: kalki
+  sector: Enterprise Productivity
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Puralink
+  url: https://www.puralink.com.au/
+  suggested_slug: puralink
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Peppermint Robotics
+  url: https://www.peppermintrobotics.com/europe
+  suggested_slug: peppermint-robotics
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Pinaca Labs
+  url: https://pinacalabs.com/
+  suggested_slug: pinaca-labs
+  sector: Deep Tech & Hard Science
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Juralto
+  url: https://juralto.com/
+  suggested_slug: juralto
+  sector: Financial Systems
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: Stealth Company
+  url: ''
+  suggested_slug: stealth-company
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false
+- name: YouLabs AI (150.fit)
+  url: https://150.fit/
+  suggested_slug: youlabs-ai-150fit
+  sector: Health & Bio
+  source_vc: crane-venture-partners
+  source: https://crane.vc/portfolio
+  stub_created: false

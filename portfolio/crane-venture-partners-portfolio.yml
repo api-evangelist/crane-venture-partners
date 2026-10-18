@@ -1,0 +1,1285 @@
+name: Crane Venture Partners Portfolio
+type: Portfolio
+generated: '2026-10-18'
+method: searched
+source: https://crane.vc/portfolio
+summary:
+  portfolio_total: 115
+  in_network: 45
+  api_providers: 22
+  missing: 70
+  stubs_created: 0
+companies:
+- name: Raito
+  url: ''
+  description: 'Raito is the ultimate platform to manage data security for: GenAI: connect LLM''s to your
+    data products while preventing security and privacy breaches'
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  exit: Exited to Collibra
+  acquirer_url: https://www.collibra.com/
+  suggested_slug: raito
+  in_network: false
+  is_api_provider: false
+- name: Kismet
+  url: https://www.kismet.healthcare/
+  description: Kismet is an ecosystem connecting elderly and disability services with personalized care.
+  sector: Health & Bio
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  slug: kismet
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Encord
+  url: https://encord.com/
+  description: Encord is the platform for data-centric computer vision, providing collaborative applications,
+    automation features, and APIs to build models & annotate, manage, and evaluate datasets for machine
+    learning and data operations teams.
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: encord
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Laminar
+  url: https://www.laminar.com/
+  description: Laminar is redefining enterprise DevOps for the AI era
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: laminar
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Bluefish
+  url: https://www.bluefishai.com/
+  description: Bluefish helps brands turn AI into a powerful new marketing channel to reach consumers
+    and tell their story online.
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: bluefish-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ona
+  url: https://ona.com/
+  description: Ona streamlines how software is written today
+  sector: AI & Automation
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  suggested_slug: ona
+  in_network: false
+  is_api_provider: false
+- name: PyannoteAI
+  url: https://www.pyannote.ai/
+  description: pyannoteAI is pioneering Speaker Intelligence AI, transforming how AI processes and understands
+    spoken language
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: pyannoteai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SeeChange
+  url: https://seechange.com/
+  description: SeeChange Technologies are a world leader in real-time AI powered recognition systems,
+    with expertise in making complex, state of the art AI technology simple to deploy and scale in the
+    real world
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: seechange
+  in_network: false
+  is_api_provider: false
+- name: Qure.ai
+  url: https://www.qure.ai/
+  description: Qure.ai leverages deep learning to transform disease diagnosis from radiology and pathology
+    imaging
+  sector: ai-automation,health-bio
+  stage: Series B
+  status: active
+  source: https://crane.vc/portfolio
+  slug: qure.ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TestSigma
+  url: https://testsigma.com/
+  description: TestSigma is accelerating software delivery with its low-code, NLP-powered test automation
+    platform
+  sector: ai-automation,data-infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: testsigma
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Zluri
+  url: https://www.zluri.com/
+  description: Zluri is helping high-growth companies bring order to their SaaS operations
+  sector: ai-automation,enterprise-productivity
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  slug: zluri
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: NyraHealth
+  url: https://www.nyra.health/en-us
+  description: NyraHealth is advancing neuro rehabilitation with its AI-powered digital therapy platform
+  sector: ai-automation,health-bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: nyrahealth
+  in_network: false
+  is_api_provider: false
+- name: Xund
+  url: https://xund.ai/
+  description: Xund is creating the infrastructure for digital-first healthcare through its AI-powered
+    medical API
+  sector: ai-automation,health-bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: xund
+  in_network: false
+  is_api_provider: false
+- name: Foundries.io
+  url: https://www.foundries.io/
+  description: Foundries.io delivers an open, customizable, secure OS and firmware platform for any IoT
+    and Edge product.
+  sector: ai-automation,deep-tech-hard-science
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  suggested_slug: foundriesio
+  in_network: false
+  is_api_provider: false
+- name: 7bridges
+  url: https://www.the7bridges.com/
+  description: Logistics unleashed
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  suggested_slug: 7bridges
+  in_network: false
+  is_api_provider: false
+- name: Stratio
+  url: https://stratioautomotive.com/
+  description: Fusing automotive engineering with scientific research, Stratio is applying machine learning
+    to automate anomaly and fault detection for the automotive industry.
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: stratio
+  in_network: false
+  is_api_provider: false
+- name: Virtuoso QA
+  url: https://www.virtuosoqa.com/
+  description: Virtuoso (previously SpotQA) combines QA expertise with cutting-edge technology to increase
+    the quality, speed and stability of software testing.
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: virtuoso-qa
+  in_network: false
+  is_api_provider: false
+- name: Optimal
+  url: https://www.optimal.ag/
+  description: Optimal is deploying AI-controlled indoor farms outside every city on earth
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: optimal
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Shipamax
+  url: ''
+  description: A toolkit for back-office automation in logistics; Shipamax connects to any unstructured
+    data source and automatically extracts data from emails and attachments in real-time - outputting
+    a clean, structured feed via an API.
+  sector: ai-automation,enterprise-productivity
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  exit: Exited to WiseTech Global
+  acquirer_url: https://www.wisetechglobal.com/
+  suggested_slug: shipamax
+  in_network: false
+  is_api_provider: false
+- name: Omni:us
+  url: https://omnius.com/
+  description: Omni:us offers a suite of insurance-focused AI tools developed for claims management.
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: omnius
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Axiom
+  url: https://axiom.co/
+  description: Data, solved
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: axiom
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Qritive
+  url: https://www.qritive.com/
+  description: Qritive is enhancing clinical diagnostics with AI-powered support for pathology
+  sector: ai-automation,health-bio
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: qritive
+  in_network: false
+  is_api_provider: false
+- name: Sandgarden
+  url: https://www.sandgarden.com/
+  description: An enterprise AI runtime engine that removes the infrastructure overhead of consolidating
+    the pipeline of tools and processes needed to test AI on imagined use cases.
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: sandgarden
+  in_network: false
+  is_api_provider: false
+- name: Bitpart.ai
+  url: https://www.bitpart.ai/
+  description: Bitpart provides an engine to build and run fully formed non-player characters (NPCs) for
+    multi-agent simulation.
+  sector: AI & Automation
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: bitpartai
+  in_network: false
+  is_api_provider: false
+- name: Nuclia
+  url: ''
+  description: Nuclia automatically indexes your unstructured data from any internal and external source,
+    providing optimized search results
+  sector: AI & Automation
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  exit: Exited to Progress
+  acquirer_url: https://www.progress.com/agentic-rag
+  slug: nuclia
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Qovery
+  url: https://www.qovery.com/
+  description: The simplest way to deploy your applications on AWS.
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: qovery
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Gable
+  url: https://www.gable.ai/
+  description: Gable helps organizations improve data quality at scale by fostering communication between
+    data producers and consumers via data contracts.
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: gable
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: ConfigHub
+  url: https://www.confighub.com/
+  description: ConfigHub is a new SaaS product for application teams operating in conditions of live production
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: confighub
+  in_network: false
+  is_api_provider: false
+- name: Quaisr
+  url: https://www.quaisr.com/
+  description: Quaisr’s platform offers digital connectivity infrastructure that scales simulation-backed
+    AI workflows to mission-critical operational deployments, helping engineers to solve pressing problems
+    in design, monitoring, optimisation and control.
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: quaisr
+  in_network: false
+  is_api_provider: false
+- name: Qapita
+  url: https://www.qapita.com/
+  description: Qapita is simplifying equity management for private companies and investors across Asia
+  sector: data-infrastructure,financial-systems
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: qapita
+  in_network: false
+  is_api_provider: false
+- name: Milieu
+  url: https://www.mili.eu/sg
+  description: Milieu Insight is delivering agile consumer data and analytics to power market research
+    and customer understanding
+  sector: Data Infrastructure
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: milieu
+  in_network: false
+  is_api_provider: false
+- name: Timeseer.ai
+  url: https://www.timeseer.ai/
+  description: Time-series data reliability and observability platform
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: timeseerai
+  in_network: false
+  is_api_provider: false
+- name: Novu
+  url: https://novu.co/
+  description: 'Novu is the open source notification infrastructure for developers, providing simple components
+    and APIs for managing all communication channels in one place: Email, SMS, Direct, and Push.'
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: novu
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ZenML
+  url: https://www.zenml.io/
+  description: ZenML is an extensible open source MLOps framework to create reproducible pipelines.
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: zenml
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Restack
+  url: https://www.restack.io/
+  description: Creating the next generation of open source developers
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: restack
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fiberplane
+  url: https://fiberplane.com/
+  description: Fiberplane offers collaborative notebooks for resolving incidents
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: fiberplane
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Tinybird
+  url: https://www.tinybird.co/
+  description: Tinybird is the way to build real-time data products
+  sector: Data Infrastructure
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: tinybird
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Harbr Data
+  url: https://www.harbrdata.com/
+  description: Harbr provides private data ecosystem platforms that enable organisations to exchange,
+    monetise and collaborate on data and models with their customers, suppliers and partners
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: harbr
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: OpenSensors
+  url: https://opensensors.com/
+  description: OpenSensors provides the next generation smart Building Management System
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: opensensors
+  in_network: false
+  is_api_provider: false
+- name: DePoly
+  url: https://www.depoly.co/
+  description: DePoly is tackling plastic waste with its breakthrough PET recycling technology
+  sector: Deep Tech & Hard Science
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: depoly
+  in_network: false
+  is_api_provider: false
+- name: H2Site
+  url: https://h2site.eu/
+  description: H2Site is unlocking hydrogen’s potential with innovative transport and integration technologies
+  sector: Deep Tech & Hard Science
+  stage: Series B
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: h2site
+  in_network: false
+  is_api_provider: false
+- name: PQShield
+  url: https://pqshield.com/
+  description: PQShield provides quantum-secure cryptographic solutions for software, software/hardware
+    co-design and data in transit, especially focused on connected systems across telecoms, automotive,
+    smart environments and financial institutions.
+  sector: deep-tech-hard-science,security
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: pqshield
+  in_network: false
+  is_api_provider: false
+- name: Gigs
+  url: https://gigs.com/
+  description: Gigs is the world’s first telecom-as-a-service platform
+  sector: Enterprise Productivity
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: gigs
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Scrut Automation
+  url: https://www.scrut.io/
+  description: Scrut is enabling mid-market companies to simplify governance, risk, and compliance with
+    its end-to-end GRC platform
+  sector: enterprise-productivity,security
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: naluri
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Privyr
+  url: https://www.privyr.com/
+  description: Privyr equips sales professionals with a mobile-first workflow platform that automates
+    lead management, CRM, and content sharing
+  sector: Enterprise Productivity
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: privyr
+  in_network: false
+  is_api_provider: false
+- name: Veratrak
+  url: https://www.veratrak.com/
+  description: Enterprise software for improving the efficiency, collaboration and security of the pharmaceutical
+    supply chain
+  sector: enterprise-productivity,health-bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: veratrak
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lune
+  url: https://lune.co/
+  description: Climate positive customer experiences
+  sector: Enterprise Productivity
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: lune
+  in_network: false
+  is_api_provider: false
+- name: Forecast
+  url: https://www.forecast.app/
+  description: Forecast is the only intelligent Professional Services Automation (PSA) platform that automates
+    and improves your organisation's financial and operational performance.
+  sector: Enterprise Productivity
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  slug: forecast
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Next Matter
+  url: https://www.nextmatter.com/
+  description: Next Matter enables operations teams to automate their core processes within hours, and
+    realize substantial performance improvements within days
+  sector: Enterprise Productivity
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  suggested_slug: next-matter
+  in_network: false
+  is_api_provider: false
+- name: Re:infer
+  url: ''
+  description: Businesses are drowning in communications data
+  sector: Enterprise Productivity
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  exit: Exited to UiPath
+  acquirer_url: https://www.uipath.com/
+  suggested_slug: re-infer
+  in_network: false
+  is_api_provider: false
+- name: Satchel
+  url: https://www.teamsatchel.com/
+  description: Satchel's suite of products for schools helps to balance teacher workload, with time saving
+    homework software, behaviour management and classroom reward systems.
+  sector: Enterprise Productivity
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: satchel
+  in_network: false
+  is_api_provider: false
+- name: Silverflow
+  url: https://www.silverflow.com/
+  description: Silverflow offers a cloud-native card processing platform
+  sector: Financial Systems
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: silverflow
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Edufund
+  url: https://www.edufund.in/
+  description: Edufund is tackling the challenge of education affordability by offering savings, investments,
+    and loans tailored for families
+  sector: Financial Systems
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: edufund
+  in_network: false
+  is_api_provider: false
+- name: IMMIX
+  url: https://immix.xyz/
+  description: IMMIX is powering institutional crypto trading with infrastructure built for speed and
+    precision
+  sector: Financial Systems
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: immix
+  in_network: false
+  is_api_provider: false
+- name: Tuio
+  url: https://app.tuio.com/welcome
+  description: Tuio is modernizing insurance with a mobile-first, transparent neo-insurer model
+  sector: Financial Systems
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: tuio
+  in_network: false
+  is_api_provider: false
+- name: Fence
+  url: https://fence.finance/
+  description: Fence delivers end-to-end debt management software purpose-built for structured credit
+  sector: Financial Systems
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: fence
+  in_network: false
+  is_api_provider: false
+- name: Qoala
+  url: https://www.qoala.vn/
+  description: Qoala is reshaping insurance distribution in Southeast Asia with its omnichannel platform
+  sector: Financial Systems
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: qoala
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: InDebted
+  url: https://www.indebted.co/
+  description: InDebted is reimagining debt collection through a digital-first, customer-centric model
+  sector: Financial Systems
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  slug: receeve
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Griffin
+  url: https://griffin.com/
+  description: Griffin is a fully regulated neobank offering a complete Banking-as-a-Service platform
+  sector: Financial Systems
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  slug: griffin
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BondBloX
+  url: https://bondblox.com/
+  description: BondBloX is building the infrastructure for digital bond trading through its electronic
+    exchange and information services platform
+  sector: Financial Systems
+  stage: Series B
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: bondblox
+  in_network: false
+  is_api_provider: false
+- name: Accelex
+  url: ''
+  description: Accelex is empowering institutional investors with automated data extraction, reporting,
+    and analytics for alternative investments
+  sector: Financial Systems
+  stage: Series A
+  status: acquired
+  source: https://crane.vc/portfolio
+  exit: Exited to Carta
+  acquirer_url: https://carta.com/uk/en/
+  suggested_slug: accelex
+  in_network: false
+  is_api_provider: false
+- name: Aspire
+  url: https://aspireapp.com/
+  description: Aspire is redefining SME banking with its all-in-one financial operating system
+  sector: Financial Systems
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  slug: aspire
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Paid
+  url: https://paid.co.uk/
+  description: Paid is a next-generation procurement automation platform that transforms the procure-to-pay
+    process to make it easier and faster for everyone
+  sector: Financial Systems
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: paid
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Centrifuge
+  url: https://centrifuge.io/
+  description: Centrifuge is a protocol for decentralised asset finance
+  sector: Financial Systems
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  suggested_slug: centrifuge
+  in_network: false
+  is_api_provider: false
+- name: Turbine
+  url: https://turbine.ai/
+  description: Turbine is building the world's first virtual lab using cell simulations.
+  sector: Health & Bio
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  slug: turbine
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CoMind
+  url: https://www.comind.io/
+  description: The future of neurotechnology is non-invasive
+  sector: Health & Bio
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: comind
+  in_network: false
+  is_api_provider: false
+- name: Bioraptor
+  url: https://www.bioraptor.ai/
+  description: Bioraptor's AI powered platform allows bio manufacturing companies to extract actionable
+    insights from their bioprocess data sources
+  sector: Health & Bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: bioraptor
+  in_network: false
+  is_api_provider: false
+- name: HelloBetter
+  url: https://hellobetter.de/en/
+  description: HelloBetter is delivering clinically validated digital therapeutics for mental health
+  sector: Health & Bio
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: hellobetter
+  in_network: false
+  is_api_provider: false
+- name: Daye
+  url: https://www.yourdaye.com/
+  description: Daye is redefining women’s health with a comprehensive gynae platform that provides personalized
+    pain relief, diagnostics, and access to innovative treatments
+  sector: Health & Bio
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: daye
+  in_network: false
+  is_api_provider: false
+- name: Oncoshot
+  url: https://www.oncoshot.com/
+  description: Oncoshot is transforming clinical research by enabling a federated approach to data analysis
+    for trial insights
+  sector: Health & Bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: oncoshot
+  in_network: false
+  is_api_provider: false
+- name: Cyberhaven
+  url: https://www.cyberhaven.com/
+  description: Cyberhaven is a Data Behaviour Analytics solution that provides visibility into the movement
+    of data and intellectual property as it travels across cloud and on-premises environments, to reveal
+    intent of data exfiltration and expose insider threats.
+  sector: Security
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: cyberhaven
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Umony
+  url: https://umony.com/
+  description: Umony is an AI-powered communications compliance platform for regulated organisations.
+  sector: Security
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: umony
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: HarfangLab
+  url: https://harfanglab.io/
+  description: HarfangLab develops next-generation endpoint detection and response (EDR) software for
+    businesses and the public sector
+  sector: Security
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: harfanglab
+  in_network: false
+  is_api_provider: false
+- name: Microsec
+  url: https://www.microsec.io/
+  description: Microsec provides end-to-end cybersecurity for the Internet of Things, securing devices
+    at the edge
+  sector: Security
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: microsec
+  in_network: false
+  is_api_provider: false
+- name: CloudSek
+  url: https://www.cloudsek.com/
+  description: CloudSek is redefining threat intelligence with its no-code platform that uses AI to deliver
+    predictive cybersecurity analytics
+  sector: Security
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: cloudsek
+  in_network: false
+  is_api_provider: false
+- name: Icite
+  url: https://icite.io/
+  description: Icite is challenging the traditional identity threat detection & response approach by putting
+    real-time intelligence, investigation, and isolation capabilities at the core of the user experience
+  sector: Security
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: icite
+  in_network: false
+  is_api_provider: false
+- name: Tracebit
+  url: https://tracebit.com/
+  description: Tracebit detects and contains security incidents
+  sector: Security
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: tracebit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cerbos
+  url: https://www.cerbos.dev/
+  description: Cerbos is self-hosted, open source, declarative access control that integrates into your
+    app in minutes.
+  sector: Security
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: cerbos
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SenseOn
+  url: https://www.senseon.io/
+  description: Senseon’s unique ‘AI Triangulation’ technology emulates how a human security analyst thinks
+    and acts to automate the process of threat detection, investigation and response.
+  sector: Security
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: senseon
+  in_network: false
+  is_api_provider: false
+- name: Tessian
+  url: ''
+  description: Tessian prevents human error and protects businesses from insider and external threats
+    on email like data exfiltration and spear phishing.
+  sector: Security
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  exit: Exited to Proofpoint
+  acquirer_url: https://www.proofpoint.com/us
+  slug: tessian
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Added Health
+  url: https://www.addedhealth.com/
+  description: Added Health has been set up by world-class doctors and software engineering experts to
+    modernize the old-style family practitioner care that has been lost over time.
+  sector: Health & Bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: added-health
+  in_network: false
+  is_api_provider: false
+- name: Atomic Tessellator
+  url: https://atomictessellator.com/
+  description: The computational infrastructure for advanced materials.
+  sector: Deep Tech & Hard Science
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: atomic-tessellator
+  in_network: false
+  is_api_provider: false
+- name: Chiral
+  url: https://www.chiralnano.com/
+  description: Building next-generation chips with nanomaterials.
+  sector: Deep Tech & Hard Science
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: chiral
+  in_network: false
+  is_api_provider: false
+- name: CloseDay
+  url: https://www.closeday.com/
+  description: The simple way to close a UK limited company.
+  sector: Enterprise Productivity
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: closeday
+  in_network: false
+  is_api_provider: false
+- name: Encore
+  url: https://encore.dev/
+  description: Infrastructure orchestration, from local to cloud Deploy to your own AWS or GCP without
+    writing a line of Terraform.
+  sector: Enterprise Productivity
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: encore-dev
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Hacktron
+  url: https://www.hacktron.ai/
+  description: Hacktron collaborates in your workflow, identifies real vulnerabilities and empowers developers
+    like a senior security engineer.
+  sector: Security
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: hacktron
+  in_network: false
+  is_api_provider: false
+- name: Imagine Health
+  url: https://imaginehealth.ai/
+  description: Imagine Health leverages computer vision to enable the robotic arm to deliver optimal imaging
+    and multimodal data in a consistent, repeatable and safe manner without the need of experienced technicians.
+  sector: Health & Bio
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: imagine-health
+  in_network: false
+  is_api_provider: false
+- name: Kurrent
+  url: https://www.kurrent.io/
+  description: Kurrent provides an event-native data platform that feeds real-time, business-critical
+    data with historical context in fine-grained streams from origination to destination, enhancing data
+    analytics and AI outcomes.
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: kurrent
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nopan
+  url: https://www.nopan.com/
+  description: Nopan is a specialized PSP built by former large-merchant payment leaders, designed to
+    turn account and wallet payments into measurable revenue drivers.
+  sector: Financial Systems
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: nopan
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Memories
+  url: https://memories.ai/
+  description: AI that sees, remembers and act.
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: memories
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OLIX
+  url: https://olix.com/
+  description: Olix is solving the most consequential problem in the deployment of frontier AI.
+  sector: Deep Tech & Hard Science
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: olix
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Pometry
+  url: https://www.pometry.com/
+  description: Pometry helps you build petabyte scale apps and ML pipelines without need to move data
+    around.
+  sector: Enterprise Productivity
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: pometry
+  in_network: false
+  is_api_provider: false
+- name: Skydda
+  url: https://skydda.ai/
+  description: Your AI SOC partner in tackling the evolving threat landscape.
+  sector: Security
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: skydda
+  in_network: false
+  is_api_provider: false
+- name: Stepsize
+  url: https://stepsize.com/
+  description: Use GenAI to Report on Product Development.
+  sector: Enterprise Productivity
+  stage: Seed
+  status: acquired
+  source: https://crane.vc/portfolio
+  suggested_slug: stepsize
+  in_network: false
+  is_api_provider: false
+- name: Plumerai
+  url: https://plumerai.com/
+  description: Plumerai enables developers to add highly accurate AI to embedded devices.
+  sector: Enterprise Productivity
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: plumerai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Nullspace
+  url: https://ns.rocks
+  description: Cloud compute for the agent age
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: nullspace
+  in_network: false
+  is_api_provider: false
+- name: Ardent
+  url: https://www.tryardent.com/
+  description: Git for your data infrastructure
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: ardent
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Phone Inc
+  url: https://www.phone.inc/
+  description: Phone.inc is an AI-native business communications platform designed for startups and modern
+    small businesses
+  sector: Enterprise Productivity
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: phone-inc
+  in_network: false
+  is_api_provider: false
+- name: Aseon Labs
+  url: https://aseonlabs.com/
+  description: The world’s first robotic pitstops for self driving cars.
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: aseon-labs
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Prefrontal
+  url: https://prefrontal.ai/
+  description: New AI frontier models to automate scientific discovery
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: prefrontal
+  in_network: false
+  is_api_provider: false
+- name: Metal Gear
+  url: https://metalgear.xyz/
+  description: Global payout infrastructure
+  sector: Financial Systems
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: metal-gear
+  in_network: false
+  is_api_provider: false
+- name: Gridfield
+  url: https://gridfield.co/
+  description: Gridfield designs, deploys, and operates bare-metal accelerator clusters for frontier AI
+    training and inference - integrating high-performance fabric, advanced liquid cooling,
+  sector: AI & Automation
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: gridfield
+  in_network: false
+  is_api_provider: false
+- name: Sugarfit
+  url: https://sugarfit.com
+  description: Doctor-led, clinically designed program that helps clients lower blood sugar, and achieve
+    sustainable weight loss
+  sector: Health & Bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: sugarfit
+  in_network: false
+  is_api_provider: false
+- name: Expanse
+  url: https://expanse.sh/
+  description: We predict exactly what every job needs before it runs, so your cluster does far more real
+    work with the same hardware.
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  slug: expanse
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Armatrix
+  url: https://armatrix.com/
+  description: Armatrix builds autonomous robotics for precision welding, maintenance, and heavy industrial
+    inspection
+  sector: Deep Tech & Hard Science
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: armatrix
+  in_network: false
+  is_api_provider: false
+- name: Cosyne
+  url: https://www.cosyne.com/
+  description: CoSyne Therapeutics is a vertically integrated AI drug discovery company focused on precision
+    medicine for under-served brain diseases
+  sector: Health & Bio
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: cosyne
+  in_network: false
+  is_api_provider: false
+- name: ePlane
+  url: https://www.eplane.ai/
+  description: ePlane company develops compact electric vertical takeoff and landing (eVTOL) aircraft
+  sector: Deep Tech & Hard Science
+  stage: Series C
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: eplane
+  in_network: false
+  is_api_provider: false
+- name: Johnaic
+  url: https://johnaic.com/
+  description: JOHNAIC provides on-premise, sovereign GPU cloud infrastructure
+  sector: Data Infrastructure
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: johnaic
+  in_network: false
+  is_api_provider: false
+- name: Kalki
+  url: https://getkalki.com/
+  description: Kalki Media operates social prediction and opinion trading platforms
+  sector: Enterprise Productivity
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: kalki
+  in_network: false
+  is_api_provider: false
+- name: Puralink
+  url: https://www.puralink.com.au/
+  description: Puralink manufactures autonomous inspection and maintenance robots for industrial piping
+    networks
+  sector: Deep Tech & Hard Science
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: puralink
+  in_network: false
+  is_api_provider: false
+- name: Peppermint Robotics
+  url: https://www.peppermintrobotics.com/europe
+  description: Peppermint Robotics builds autonomous commercial floor-cleaning robots for healthcare,
+    manufacturing, and pharmaceutical facilities
+  sector: Deep Tech & Hard Science
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: peppermint-robotics
+  in_network: false
+  is_api_provider: false
+- name: Pinaca Labs
+  url: https://pinacalabs.com/
+  description: Pinaca Labs builds a sovereign Spatial AI platform for defense and critical infrastructure
+  sector: Deep Tech & Hard Science
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: pinaca-labs
+  in_network: false
+  is_api_provider: false
+- name: Juralto
+  url: https://juralto.com/
+  description: Juralto is a flexible, modern payments processing platform designed for merchant acquirers
+  sector: Financial Systems
+  stage: Series A
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: juralto
+  in_network: false
+  is_api_provider: false
+- name: Stealth Company
+  url: ''
+  description: Building foundational healthcare solutions for women, in an area long under-served by research
+    and investment
+  sector: Health & Bio
+  stage: Pre-Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: stealth-company
+  in_network: false
+  is_api_provider: false
+- name: YouLabs AI (150.fit)
+  url: https://150.fit/
+  description: YouLabs is an AI-driven, physician-managed longevity and preventative health platform
+  sector: Health & Bio
+  stage: Seed
+  status: active
+  source: https://crane.vc/portfolio
+  suggested_slug: youlabs-ai-150fit
+  in_network: false
+  is_api_provider: false

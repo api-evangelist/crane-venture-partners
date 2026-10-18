@@ -1,0 +1,76 @@
+name: Crane Venture Partners
+description: >-
+  Crane Venture Partners is an early-stage venture capital firm founded in 2015 by Krishna Visvanathan and Scott Sage
+  that backs outlier founders everywhere, from inception to seed, building the foundational technologies that shape the
+  future: AI infrastructure, semiconductors, developer innovations, enterprise systems, data infrastructure, security and
+  hard tech. Originally London-based and focused on European enterprise founders, Crane describes itself as one firm
+  "global by design" with offices in London, San Francisco, New York, Singapore and Bangalore. Its published portfolio
+  of 115 companies includes Encord, Ona (acquired by OpenAI), Tessian (acquired by Proofpoint), Qure.ai, Zluri and TestSigma.
+image: https://crane-vc.transforms.svdcdn.com/local/assets/media/og1_2026-04-27-201543_zvhb.jpg
+url: https://crane.vc/apis.yml
+x-type: venture-capital
+x-category: Venture Capital
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Enterprise Software
+  - AI Infrastructure
+  - Developer Tools
+  - Deep Tech
+  - Europe
+  - United Kingdom
+created: '2026-10-18'
+modified: '2026-10-18'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://crane.vc
+  - type: Portfolio
+    url: https://crane.vc/portfolio
+  - type: Portfolio
+    url: portfolio/crane-venture-partners-portfolio.yml
+  - type: Team
+    url: https://crane.vc/team
+  - type: Team
+    url: team/crane-venture-partners-team.yml
+  - type: InvestmentThesis
+    url: https://crane.vc/our-story
+  - type: Blog
+    url: https://crane.vc/ideas
+  - type: Jobs
+    url: https://careers.crane.vc/jobs
+  - type: Contact
+    url: https://crane.vc/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crane-venture-partners/
+  - type: Features
+    name: Fund Facts
+    updated: '2026-10-18'
+    sources:
+      - https://crane.vc
+      - https://crane.vc/our-story
+      - https://crane.vc/portfolio
+    data:
+      - name: Stage
+        value: Inception to Seed (pre-seed and seed)
+      - name: Sectors
+        value: AI infrastructure, semiconductors, developer innovations, enterprise systems, data infrastructure, security, hard tech
+      - name: Geography
+        value: Europe, North America, APAC, India
+      - name: Founded
+        value: '2015'
+      - name: Offices
+        value: London, San Francisco, New York, Singapore, Bangalore
+      - name: Typical check
+        value: not published
+      - name: AUM
+        value: not published
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    email: info@apisjson.org
+  - FN: Crane Venture Partners
+    url: https://crane.vc/contact
